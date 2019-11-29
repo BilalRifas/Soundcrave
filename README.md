@@ -3,7 +3,7 @@
 A simple social media web application for Music enthusiasts developed using PHP Code Igniter framework. This was created for my academic purposes and including in GitHub for anyone struggling with Code Igniter related projects.
 
 Website hosted URL: 
-[https://w1626625.users.ecs.westminster.ac.uk/Soundcrave/](https://soundcrave-bilal.000webhostapp.com/)
+[https://soundcrave-bilal.000webhostapp.com](https://soundcrave-bilal.000webhostapp.com/)
 
 # Homepage
 ![alt text](
